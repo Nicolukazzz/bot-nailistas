@@ -8,9 +8,6 @@ require('dotenv').config();
 const usuariosAtendidos = new Set();
 const fs = require('fs');
 // Google Sheets setup
-const { GoogleSpreadsheet } = require('google-spreadsheet');
-const creds = require('./keys/speedy-precept-441416-b4-1be89218efda.json');
-const SHEET_ID = '1KrEK5a42KEdcs_Da7D33FqSniQtAIZVfk1dCrctmt5c';
 
 // Configuración del negocio
 const CONFIG = {
