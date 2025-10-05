@@ -1,0 +1,413 @@
+[
+  {
+    "productos": {
+      "A12": {
+        "nombre": "Rojo Pasión",
+        "precio": 15,
+        "cantidad": 3
+      }
+    },
+    "cliente": {
+      "nombre": "Nicolas",
+      "direccion": "Centro",
+      "telefono": "31717363",
+      "pago": "Efectivo"
+    },
+    "total": 45,
+    "fecha": "8/17/2025, 10:23:09 PM",
+    "id": "PED-1755487389619"
+  },
+  {
+    "productos": {
+      "23": {
+        "color": "23",
+        "cantidad": 2,
+        "precio": 26000
+      }
+    },
+    "cliente": {
+      "nombre": "Nicolas",
+      "direccion": "Centro",
+      "telefono": "3718374",
+      "pago": "Nequi"
+    },
+    "total": 52000,
+    "fecha": "8/17/2025, 10:55:59 PM",
+    "id": "PED-1755489359923"
+  },
+  {
+    "productos": {
+      "23": {
+        "color": "23",
+        "cantidad": 2,
+        "precio": 26000
+      },
+      "32": {
+        "color": "32",
+        "cantidad": 1,
+        "precio": 26000
+      },
+      "98": {
+        "color": "98",
+        "cantidad": 21,
+        "precio": 26000
+      }
+    },
+    "cliente": {
+      "nombre": "Nicolas",
+      "direccion": "Centro",
+      "telefono": "82837373",
+      "pago": "Nequi"
+    },
+    "total": 624000,
+    "fecha": "8/17/2025, 11:03:44 PM",
+    "id": "PED-1755489824339"
+  },
+  {
+    "productos": {
+      "12": {
+        "color": "12",
+        "cantidad": 1,
+        "precio": 26000
+      }
+    },
+    "cliente": {
+      "nombre": "María Paula Suárez",
+      "direccion": "Calle 65 #11-47",
+      "telefono": "3155641107",
+      "pago": "Nequi"
+    },
+    "total": 26000,
+    "fecha": "8/17/2025, 11:08:22 PM",
+    "id": "PED-1755490102263"
+  },
+  {
+    "productos": {
+      "12": {
+        "color": "12",
+        "cantidad": 2,
+        "precio": 23000
+      }
+    },
+    "cliente": {
+      "nombre": "Nicolas",
+      "direccion": "Centro",
+      "telefono": "3115092327",
+      "pago": "Nequi"
+    },
+    "total": 46000,
+    "fecha": "8/18/2025, 12:15:38 AM",
+    "id": "PED-1755494138620"
+  },
+  {
+    "productos": {
+      "12": {
+        "color": "12",
+        "cantidad": 2,
+        "precio": 23000
+      }
+    },
+    "cliente": {
+      "nombre": "Nicolas",
+      "direccion": "Centro",
+      "telefono": "3115092327",
+      "pago": "Nequi"
+    },
+    "total": 46000,
+    "fecha": "8/18/2025, 12:17:24 AM",
+    "id": "PED-1755494244274"
+  },
+  {
+    "productos": {
+      "12": {
+        "color": "12",
+        "cantidad": 2,
+        "precio": 23000
+      }
+    },
+    "cliente": {
+      "nombre": "Nicolas",
+      "direccion": "Centro",
+      "telefono": "3115092327",
+      "pago": "Nequi"
+    },
+    "total": 46000,
+    "fecha": "8/18/2025, 12:18:18 AM",
+    "id": "PED-1755494298620"
+  },
+  {
+    "productos": {
+      "12": {
+        "color": "12",
+        "cantidad": 2,
+        "precio": 23000
+      }
+    },
+    "cliente": {
+      "nombre": "Nicolas",
+      "direccion": "Centro",
+      "telefono": "3115092327",
+      "pago": "Nequi"
+    },
+    "total": 46000,
+    "fecha": "8/18/2025, 12:18:50 AM",
+    "id": "PED-1755494330435"
+  },
+  {
+    "productos": {
+      "12": {
+        "color": "12",
+        "cantidad": 2,
+        "precio": 23000
+      }
+    },
+    "cliente": {
+      "nombre": "Nicolas",
+      "direccion": "Centro",
+      "telefono": "3115092327",
+      "pago": "Nequi"
+    },
+    "total": 46000,
+    "fecha": "8/18/2025, 12:22:12 AM",
+    "id": "PED-1755494532187"
+  },
+  {
+    "productos": {
+      "12": {
+        "color": "12",
+        "cantidad": 2,
+        "precio": 23000
+      }
+    },
+    "cliente": {
+      "nombre": "Nicolas",
+      "direccion": "Centro",
+      "telefono": "3115092327",
+      "pago": "Nequi"
+    },
+    "total": 46000,
+    "fecha": "8/18/2025, 12:23:19 AM",
+    "id": "PED-1755494599436"
+  },
+  {
+    "productos": {
+      "12": {
+        "color": "12",
+        "cantidad": 2,
+        "precio": 23000
+      }
+    },
+    "cliente": {
+      "nombre": "Nicolas",
+      "direccion": "Centro",
+      "telefono": "3115092327",
+      "pago": "Nequi"
+    },
+    "total": 46000,
+    "fecha": "8/18/2025, 12:25:26 AM",
+    "id": "PED-1755494726131"
+  },
+  {
+    "productos": {
+      "12": {
+        "color": "12",
+        "cantidad": 2,
+        "precio": 23000
+      }
+    },
+    "cliente": {
+      "nombre": "Nicolas",
+      "direccion": "Centro",
+      "telefono": "3115092327",
+      "pago": "Nequi"
+    },
+    "total": 46000,
+    "fecha": "8/18/2025, 12:27:48 AM",
+    "id": "PED-1755494868363"
+  },
+  {
+    "productos": {
+      "12": {
+        "color": "12",
+        "cantidad": 2,
+        "precio": 23000
+      }
+    },
+    "cliente": {
+      "nombre": "Nicolas",
+      "direccion": "Centro",
+      "telefono": "3115092327",
+      "pago": "Nequi"
+    },
+    "total": 46000,
+    "fecha": "8/18/2025, 12:29:47 AM",
+    "id": "PED-1755494987457"
+  },
+  {
+    "productos": {
+      "12": {
+        "color": "12",
+        "cantidad": 2,
+        "precio": 23000
+      }
+    },
+    "cliente": {
+      "nombre": "Nicolas",
+      "direccion": "Centro",
+      "telefono": "3115092327",
+      "pago": "Nequi"
+    },
+    "total": 46000,
+    "fecha": "8/18/2025, 12:31:18 AM",
+    "id": "PED-1755495078608"
+  },
+  {
+    "productos": {
+      "12": {
+        "color": "12",
+        "cantidad": 2,
+        "precio": 23000
+      }
+    },
+    "cliente": {
+      "nombre": "Nicolas",
+      "direccion": "Centro",
+      "telefono": "3115092327",
+      "pago": "Nequi"
+    },
+    "total": 46000,
+    "fecha": "8/18/2025, 12:32:56 AM",
+    "id": "PED-1755495176838"
+  },
+  {
+    "productos": {
+      "12": {
+        "color": "12",
+        "cantidad": 2,
+        "precio": 23000
+      }
+    },
+    "cliente": {
+      "nombre": "Nicolas",
+      "direccion": "Centro",
+      "telefono": "3115092327",
+      "pago": "Nequi"
+    },
+    "total": 46000,
+    "fecha": "8/18/2025, 12:34:54 AM",
+    "id": "PED-1755495294430"
+  },
+  {
+    "productos": {
+      "12": {
+        "color": "12",
+        "cantidad": 2,
+        "precio": 23000
+      }
+    },
+    "cliente": {
+      "nombre": "Nicolas",
+      "direccion": "Centro",
+      "telefono": "3115092327",
+      "pago": "Nequi"
+    },
+    "total": 46000,
+    "fecha": "8/18/2025, 12:37:23 AM",
+    "id": "PED-1755495443861"
+  },
+  {
+    "productos": {
+      "073": {
+        "color": "073",
+        "cantidad": 1,
+        "precio": 23000
+      }
+    },
+    "cliente": {
+      "nombre": "Freddy putas fuentes",
+      "direccion": "Cl 12 #3-45A",
+      "telefono": "3232277807",
+      "pago": "Nequi"
+    },
+    "total": 23000,
+    "fecha": "8/18/2025, 12:43:32 AM",
+    "id": "PED-1755495812975"
+  },
+  {
+    "productos": {
+      "078": {
+        "color": "078",
+        "cantidad": 999,
+        "precio": 23000
+      },
+      "076": {
+        "color": "076",
+        "cantidad": 999999999999999,
+        "precio": 23000
+      }
+    },
+    "cliente": {
+      "nombre": "Freddy putas fuentes",
+      "direccion": "Cl 12 #3-45A",
+      "telefono": "3232277807",
+      "pago": "Nequi"
+    },
+    "total": 23000000000022954000,
+    "fecha": "8/18/2025, 12:46:00 AM",
+    "id": "PED-1755495960945"
+  },
+  {
+    "productos": {
+      "079": {
+        "color": "079",
+        "cantidad": 1,
+        "precio": 23000
+      }
+    },
+    "cliente": {
+      "nombre": "Freddy putas fuentes",
+      "direccion": "Cl 12 #3-45A",
+      "telefono": "3232277807",
+      "pago": "Nequi"
+    },
+    "total": 23000,
+    "fecha": "8/18/2025, 12:46:45 AM",
+    "id": "PED-1755496005214"
+  },
+  {
+    "productos": {
+      "2": {
+        "color": "2",
+        "cantidad": 3,
+        "precio": 23000
+      }
+    },
+    "cliente": {
+      "nombre": "Nicolas",
+      "direccion": "Centro",
+      "telefono": "3115092327",
+      "pago": "Nequi"
+    },
+    "total": 69000,
+    "fecha": "8/18/2025, 2:18:05 PM",
+    "id": "PED-1755544685054"
+  },
+  {
+    "productos": {
+      "2": {
+        "color": "2",
+        "cantidad": 4,
+        "precio": 23000
+      }
+    },
+    "cliente": {
+      "nombre": "Nicolas",
+      "direccion": "Centro",
+      "telefono": "3115092327",
+      "pago": "Nequi"
+    },
+    "total": 92000,
+    "fecha": "8/18/2025, 2:25:04 PM",
+    "id": "PED-1755545104974"
+  }
+]
